@@ -1,0 +1,58 @@
+{
+  "imgUrl": "1231",
+  "lblTitle":"個人履歴",
+  "lblUserNm": "秦　超",
+  "lbl_date": {
+    "yyyy": "年",
+    "mm": "月",
+    "dd": "日",
+    "nama": "生",
+    "ima": "現在",
+    "migi": "(",
+    "hidari": ")",
+    "man": "満",
+    "sai": "才",
+    "commutingTime":"通勤時間",
+    "yaku": "約",
+    "time": "時間",
+    "mi":"分"
+  },
+  "lbl_basicInformation": {
+  	"title1":"基本情報",
+  	"title2":"学　歴　・　職　歴",
+  	"title3":"免　許　・　資　格",
+    "title4":"スキル",
+    "name1": "ふりがな",
+    "name2": "氏名",
+    "email": "メールアドレス",
+    "phone":"電話",
+    "birthDate":"誕生日",
+    "url": "URL",
+    "sex": "性別",
+  	"man":"男",
+  	"woman":"女",
+    "currentAddress":"現在住",
+    "contactAddress":"連絡先",
+    "addressLabel":"〒",
+    "tel":"電話",
+    "hito":"人",
+    "spouse":"配偶者",
+    "spouse2":"配偶者の扶養義務",
+    "spouse3":"扶養家族（配偶者を除く）",
+    "ari":"有",
+    "nai":"無",
+    "ym":"年月"
+  },
+  "lbl_message": {
+    "msg1":"（現住所以外に連絡を希望する場合のみ記入）",
+    "msg2":"志望の動機、特技、好きな学科、アピールポイントなど",
+    "msg3":"本人希望記入欄（特に給料・職種・勤務時間・勤務地・その他についての希望などがあれば記入"
+  },
+  "language": {
+    "title": "日本語を選択してください。",
+    "chinese": "中国語",
+    "english": "英語",
+    "japanese": "日本語",
+    "save": "保存"
+  }
+}
